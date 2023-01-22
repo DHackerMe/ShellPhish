@@ -62,7 +62,5 @@ cd ShellPhish && bash update.sh
 </p><p align="left">
 <a href="https://twitter.com/DHackerMe"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p><p align="left">
-<a href="https://facebook.com/DHackerMe"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p><p align="left">
 <a href="https://instagram.com/DHackerMe"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
