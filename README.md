@@ -1,11 +1,10 @@
-# ShellPhish v1.0 - MOD
+# ShellPhish v1.1 - MOD
 Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam, Twitter, PlayStation, GitHub, Twitch, Pinterest, Snapchat, Linkedin, Ebay, Dropbox, Protonmail, Spotify, Reddit, Adobe, DeviantArt, Badoo, Origin, CryptoCoin, Yahoo, Wordpress, Yandex, StachoverFlow & VK. This is a modified version of ShellFish, ShellPhish & Zphisher.
 
 ## Legal disclaimer:
 ***Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
 
 ### Modded by @DHackerMe
-### Tested by @Kirito071008
 
 ## Notes:
 **If you find any problems than please report them to Github Issues.**
